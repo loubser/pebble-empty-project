@@ -1,0 +1,21 @@
+{
+    "author": "lkz.web@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "empty-project",
+    "pebble": {
+        "displayName": "empty-project",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "0431cb3a-9416-436f-954d-14870b33b7e5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
